@@ -17,3 +17,9 @@ Paper :https://drive.google.com/viewerng/viewer?url=http://cs231n.stanford.edu/r
 Related Work 5
 Paper : https://drive.google.com/viewerng/viewer?url=https://cseweb.ucsd.edu/classes/wi10/cse190-a/reports/jlintern.pdf
 
+
+Datasets: 
+1-)http://kovan.ceng.metu.edu.tr/LogoDataset/
+2-)http://www.robots.ox.ac.uk/~vgg/data/text/
+3-)http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
+
